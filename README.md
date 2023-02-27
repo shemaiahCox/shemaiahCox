@@ -13,7 +13,7 @@ I *enjoyed living* in High Wycombe because it was surrounded by the Countryside 
 
 ### One of my favourite quotes
 
-> Do something today that your future seld will be thankful for
+> "Do something today that your future seld will be thankful for."
 
 
 ### Places to visit
@@ -25,7 +25,7 @@ I *enjoyed living* in High Wycombe because it was surrounded by the Countryside 
 - France
 
 
-### top 5 hip hop artists
+### Top 5 hip hop artists
 
 1. MF Doom
 2. Moka Only
@@ -43,13 +43,6 @@ This will print **Hello, world!** to the console
     }
   
     printHello();
-  
-  
-### Where would I like to live
-
-Definately a lake house!
-
-![Lake house](https://www.google.com/imgres?imgurl=https%3A%2F%2Fidologyasheville.com%2Fimg%2FThings-You-Never-Knew-About-Your-Lakehouse-Home-Floors_IDology-Asheville.jpg&imgrefurl=https%3A%2F%2Fidologyasheville.com%2Fpostings%2Fthings-you-never-knew-about-your-lakehouse-home-floors.html&tbnid=ivyzwK_VgdUWPM&vet=12ahUKEwis88L6zbb9AhXCoEwKHX2dCDUQMygBegUIARDhAQ..i&docid=9TFmh4clcqlnOM&w=817&h=578&q=lakehouse&ved=2ahUKEwis88L6zbb9AhXCoEwKHX2dCDUQMygBegUIARDhAQ)
 
 
 ### Most useful coding resource
