@@ -13,7 +13,7 @@ I *enjoyed living* in High Wycombe because it was surrounded by the Countryside 
 
 ### One of my favourite quotes
 
-> "Do something today that your future seld will be thankful for."
+> "Do something today that your future self will be thankful for."
 
 
 ### Places to visit
