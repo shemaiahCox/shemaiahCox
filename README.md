@@ -1,8 +1,8 @@
-<picture>
+<!-- <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
-</picture>
+</picture> -->
 
 # About me
 
@@ -15,17 +15,25 @@
 I currently live in **Birmmingham**.<br>
 I also lived in **High Wycombe** for 5 years.
 
-I *enjoyed living* in High Wycombe because it was surrounded by the Countryside where I would often go cycling.
+I enjoyed living in High Wycombe because it was surrounded by the Countryside where I would often go 🚴.
 
 ### One of my favourite quotes
 
-> "Do something today that your future self will be thankful for."
+> "Do something today, your future self will thank you for."
+
+### Favourite things to do
+
+| Rank | THING                     |
+|-----:|---------------------------|
+|     1| Exploring new places      |
+|     2| Programming               |
+|     2| Watching tv shows         |
+|     3| Gaming                    |
 
 
-### Places to visit
+### Places i'd like to visit
 
 - Scotland
-- France
 - Switzerland
 - Japan
 - France
@@ -40,16 +48,17 @@ I *enjoyed living* in High Wycombe because it was surrounded by the Countryside 
 5. Ghostface Killah
 
 
-### Example script
+### Basic script
 
-This will print **Hello, world!** to the console
+Prints *Feel the thunk!* to the console
 
-    const printHello = () => {
-     console.log('Hello, world');
-    }
+```javascript
+const saySomethin = () => {
+  console.log('Feel the thunk!');
+}
   
-    printHello();
-
+saySomething();
+```
 
 ### Most useful coding resource
 
