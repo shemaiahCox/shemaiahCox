@@ -6,7 +6,7 @@
 
 # About me
 
-### Personal Details
+### Personal Details 
 
 Preferred Name: Hezron
 
@@ -16,7 +16,7 @@ Cold houses.
 
 ### Where I live
 
-Currently living in **Birmmingham**.<br>
+Currently living in **Birmingham**.<br>
 
 ### One of my favourite quotes
 
