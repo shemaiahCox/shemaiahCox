@@ -6,9 +6,11 @@
 
 # About me
 
-- **Name:** Shemaiah Cox
+### Personal Details
 
-# What I dislike
+Preferred Name: Hezron
+
+### What I dislike
 
 Cold houses.
 
@@ -22,7 +24,7 @@ Currently living in **Birmmingham**.<br>
 
 ### Favourite things to do
 
-|      | Interest                  |
+| No.  | Interest                  |
 |-----:|---------------------------|
 |     1| Exploring new places      |
 |     2| Programming               |
@@ -50,7 +52,7 @@ Currently living in **Birmmingham**.<br>
 
 ### Simple script
 
-Prints *Feel the thunk!* to the console
+Prints *'Feel the thunk!'* 
 
 ```javascript
 const saySomethin = () => {
