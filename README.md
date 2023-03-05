@@ -7,15 +7,14 @@
 # About me
 
 - **Name:** Shemaiah Cox
-- **Alias:** Yogi84
-- **Email:** <yogi84@example.com>
+
+# What I dislike
+
+Cold houses.
 
 ### Where I live
 
-I currently live in **Birmmingham**.<br>
-I also lived in **High Wycombe** for 5 years.
-
-I enjoyed living in High Wycombe because it was surrounded by the Countryside where I would often go 🚴.
+Currently living in **Birmmingham**.<br>
 
 ### One of my favourite quotes
 
@@ -23,7 +22,7 @@ I enjoyed living in High Wycombe because it was surrounded by the Countryside wh
 
 ### Favourite things to do
 
-| Rank | THING                     |
+|      | Interest                  |
 |-----:|---------------------------|
 |     1| Exploring new places      |
 |     2| Programming               |
@@ -37,6 +36,7 @@ I enjoyed living in High Wycombe because it was surrounded by the Countryside wh
 - Switzerland
 - Japan
 - France
+- Brazil
 
 
 ### Top 5 hip hop artists
@@ -48,7 +48,7 @@ I enjoyed living in High Wycombe because it was surrounded by the Countryside wh
 5. Ghostface Killah
 
 
-### Basic script
+### Simple script
 
 Prints *Feel the thunk!* to the console
 
@@ -62,4 +62,4 @@ saySomething();
 
 ### Most useful coding resource
 
-I found the [Mozilla Developer Network or MDN](https://developer.mozilla.org/en-US/) to be very useful.
+[Mozilla Developer Network or MDN](https://developer.mozilla.org/en-US/)
