@@ -19,7 +19,7 @@ I enjoyed living in High Wycombe because it was surrounded by the Countryside wh
 
 ### One of my favourite quotes
 
-> "Do something today, your future self will thank you for."
+> "Do something today that your future self will thank you for."
 
 ### Favourite things to do
 
