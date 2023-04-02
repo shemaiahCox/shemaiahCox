@@ -10,13 +10,9 @@
 
 Preferred Name: Hezron
 
-### What I dislike
-
-Cold houses.
-
 ### Where I live
 
-Currently living in **Birmingham**.<br>
+Birmingham, UK
 
 ### One of my favourite quotes
 
@@ -26,7 +22,7 @@ Currently living in **Birmingham**.<br>
 
 | No.  | Interest                  |
 |-----:|---------------------------|
-|     1| Exploring new places      |
+|     1| Explore new places        |
 |     2| Programming               |
 |     2| Watching tv shows         |
 |     3| Gaming                    |
@@ -41,14 +37,15 @@ Currently living in **Birmingham**.<br>
 - Brazil
 
 
-### Top 5 hip hop artists
+### Top 3 hip hop artists
 
 1. MF Doom
 2. Moka Only
 3. Homeboy Sandman
-4. Roc Marciano
-5. Ghostface Killah
 
+### What I dislike
+
+Cold houses.
 
 ### Simple script
 
@@ -62,6 +59,6 @@ const saySomethin = () => {
 saySomething();
 ```
 
-### Most useful coding resource
+### Most liked coding resource
 
-[Mozilla Developer Network or MDN](https://developer.mozilla.org/en-US/)
+[MDN](https://developer.mozilla.org/en-US/)
